@@ -12,15 +12,15 @@ Designed to identify 🔎 open redirect vulnerabilities🪲 which can be chained
 
 
 ## Installation
- ### clone the repository
+1. ### clone the repository
 ```sh
 git clone https://github.com/DNcrypter/Redirect-Tracker.git
 ```
- ### move to directory
+2. ### move to directory
 ```sh 
 cd Redirect-Tracker
 ```
-### Run setup.sh
+3. ### Run setup.sh
 ```sh
 sudo chmod +x setup.sh
 ./setup.sh
