@@ -11,7 +11,7 @@ Designed to identify 🔎 open redirect vulnerabilities🪲 which can be chained
 ![Redirect-Tracker](https://github.com/DNcrypter/Redirect-Tracker/blob/main/static/Redirect-Tracker.png)
 
 
-## Install
+## Installation
  ### clone the repository
 ```sh
 git clone https://github.com/DNcrypter/Redirect-Tracker.git
