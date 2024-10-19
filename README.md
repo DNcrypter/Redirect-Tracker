@@ -8,7 +8,8 @@ Designed to identify 🔎 open redirect vulnerabilities🪲 which can be chained
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikhil--chaudhari/)
         [![Medium](https://img.shields.io/badge/Medium-Writeups-black)](https://medium.com/@nikhil-c)
 
-![Redirect-Tracker](https://github.com/DNcrypter/Redirect-Tracker/static/Redirect-Tracker.png?raw=true)
+![Redirect-Tracker](https://github.com/DNcrypter/Redirect-Tracker/blob/main/static/Redirect-Tracker.png)
+
 
 ## Install
  ### clone the repository
