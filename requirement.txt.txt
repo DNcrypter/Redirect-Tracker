@@ -1,0 +1,7 @@
+
+# important Dependencies:
+argparse
+aiohttp
+tqdm
+concurrent.futures
+asyncio
